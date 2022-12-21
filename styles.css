@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+#form{
+    background-color: rgb(34, 133, 133);
+    color: white;
+    border: 2px solid black;
+    height: 75vh;
+    width: 50vh;
+    padding: 20px;
+    position:absolute ;
+    left: 50%;
+    transform:translateX(-50%) ;
+}
+.div{
+    border: 1px solid rgb(255, 255, 255)29, 128, 128);
+  
+
+    
+}
